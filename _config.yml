@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
+username: qinwenbo114
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
