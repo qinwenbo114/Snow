@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: qinwenbo114
-baseurl: /StrayBirds
+baseurl: /Snow
 markdown: redcarpet
 safe: false
 highlighter: pygments
